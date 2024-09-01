@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science graduate and I am very muchinterested in DevOps and Automation Testing. I also have some experience in Web App development and Android App development. Currently I am learing more about DevOps and looking for a job related to DevOps.
+I am a Computer Science graduate and I am very muchinterested in DevOps and Automation Testing. I also have some experience in Web App development and Android App development. Currently I am learning more about DevOps and looking for a job related to DevOps.
 
 
 ## 🌐 Socials:
