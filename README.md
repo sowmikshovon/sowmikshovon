@@ -18,7 +18,8 @@
 
 ## 🚀 Featured Engineering Highlights
 
-- **[End-to-End DevSecOps CI/CD Pipeline](https://github.com/sowmikshovon?tab=repositories)**: Automated multi-stage delivery pipeline deploying a containerized application to Kubernetes using GitHub, Jenkins, Docker, ArgoCD, SonarQube static code analysis, OWASP Dependency-Check, and Trivy container image scanning.
+- **[Azure Cloud Platform IaC (`azure-cloud-platform-terraform`)](https://github.com/sowmikshovon/azure-cloud-platform-terraform)**: Standardized Terraform blueprint provisioning an Azure Resource Group, Azure Container Registry (ACR), and Azure Kubernetes Service (AKS) validated via automated GitHub Actions and Trivy IaC governance checks.
+- **[End-to-End DevSecOps CI/CD Pipeline](https://github.com/sowmikshovon/DevOps-pipeline-1)**: Automated multi-stage delivery pipeline deploying a containerized application to Kubernetes using GitHub, Jenkins, Docker, ArgoCD, SonarQube static code analysis, OWASP Dependency-Check, and Trivy container image scanning.
 - **[Containerized Backend API via AI Workflows (`acquisitions`)](https://github.com/sowmikshovon/acquisitions)**: RESTful authentication and data API built with Node.js, Express, Docker, Drizzle ORM, and Neon Serverless PostgreSQL. Orchestrated using **Warp AI** and **GitHub Copilot** guided by a structured `WARP.md` context specification.
 - **[Cloud-Deployed TypeScript Applications](https://sowmik-portfolio-nextjs.vercel.app/)**: Server-side rendered portfolio platform and full-stack Spotify streaming clone built with TypeScript, Next.js, React, Tailwind CSS, Supabase, and automated GitHub deployment workflows.
 
